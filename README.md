@@ -1,5 +1,4 @@
-## Sou formada em técnico de informática, trabalhei em projetos Mobile e Web nos dois últimos anos. 
-## Focada na área de testes, concluí alguns cursos e continuo buscando me capacitar cada vez mais.
+## Sou formada em técnico de informática, trabalhei em projetos Mobile e Web nos dois últimos anos.Focada na área de testes, concluí alguns cursos e continuo buscando me capacitar cada vez mais.
 ## Conhecimentos que já adquiri 👩‍💻:
 
 
@@ -16,10 +15,10 @@
 * Execução de testes manuais e funcionais
 * Análise de requisitos funcionais
 * SDLC
-* Desenvolvimento ágil de software ( BDD - Gherkin)
+* Desenvolvimento ágil de software (BDD)
 * Automação de testes com Cabybara, Cucumber, Ruby, JavaScript, Cypress e Selenium WebDriver
 * Metodologias Ágeis: Scrum e kanban
-* Experiência com: Jira, Zephyr, Azure DevOps, Charles Proxy e SQL
+* Experiência com: Jira, Zephyr, Azure DevOps, Gherkin, Charles Proxy e SQL
 * Conhecimento básico: Jenkins, Docker, Json, Appium, Postman
 * Controle de versionamento de código ( Github e GitLab)
 
@@ -43,7 +42,11 @@
 
 <div> 
 
-  <a href = "mailto:isa.fiurst@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/isadorafiurst/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:isa.fiurst@hotmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/isadorafiurst/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
   
 </div>
