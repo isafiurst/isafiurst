@@ -1,4 +1,4 @@
-## Sou formada em técnico de informática, trabalhei em projetos Mobile e Web nos dois últimos anos.Focada na área de testes, concluí alguns cursos e continuo buscando me capacitar cada vez mais.
+## Sou formada em técnico de informática, trabalhei em projetos Mobile e Web nos dois últimos anos. Focada na área de testes, concluí alguns cursos e continuo buscando me capacitar cada vez mais.
 ## Conhecimentos que já adquiri 👩‍💻:
 
 
